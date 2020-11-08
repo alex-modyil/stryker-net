@@ -84,30 +84,30 @@
       },
       "Microsoft.TestPlatform": {
         "type": "Direct",
-        "requested": "[16.7.1, )",
-        "resolved": "16.7.1",
-        "contentHash": "YmsvjckFsARpmi5Qpfp4WPya989FLDmtD353z6eDm2FEv/843jSrKT0fstSfzIYdpXZ8o5yarOA6MQX8mayP3A=="
+        "requested": "[16.8.0, )",
+        "resolved": "16.8.0",
+        "contentHash": "rPA7+W+UNo6YX2QmOG1yilEcVNdn9vCjBHNDdnT+YH6cb8SeTc9aPxGkEFmFwgH+bSIdVMcCuLqLuJMatzu2hw=="
       },
       "Microsoft.TestPlatform.ObjectModel": {
         "type": "Direct",
-        "requested": "[16.7.1, )",
-        "resolved": "16.7.1",
-        "contentHash": "FL+VpAC/nCCzj80MwX6L8gJD06u2m1SKcQQLAymDLFqNtgtI9h3J5n0mVN+s18qcMzybsmO9GK7rMuHYx11KMg==",
+        "requested": "[16.8.0, )",
+        "resolved": "16.8.0",
+        "contentHash": "Y60IDgwinOqwECwmvXyFqk2lnQAvcS6EKevc3DyKUJoJaNJ9bUGsUS8H2nlgBHloSQ/Zqj27CjRuLhBsCUO58w==",
         "dependencies": {
           "NuGet.Frameworks": "5.0.0"
         }
       },
       "Microsoft.TestPlatform.Portable": {
         "type": "Direct",
-        "requested": "[16.7.1, )",
-        "resolved": "16.7.1",
-        "contentHash": "98dUZvN0ePwy6DH8Lj3e+LVoH5jo8j0bxV+Ybq5bv7JwW0k6x9nR5d9D3+JVpHo57QhoeTBbzBuQ+ZFoAmfQ1Q=="
+        "requested": "[16.8.0, )",
+        "resolved": "16.8.0",
+        "contentHash": "8zH580Sy9Sq1DGdTQomFw85/lo/h0x3ic9IFwId/gVHNuHZV79AOEgS7aMVramC1sd9bg1wM32cReVNYspGv9Q=="
       },
       "Microsoft.TestPlatform.TranslationLayer": {
         "type": "Direct",
-        "requested": "[16.7.1, )",
-        "resolved": "16.7.1",
-        "contentHash": "enqnyRWAnSnjppygEb69Bzw3GEtn9onITGW1202Enm1tLBFDTtEARC6vaVM7GFoRclE5CzgDS/Zb8XvDEJ6Z4Q==",
+        "requested": "[16.8.0, )",
+        "resolved": "16.8.0",
+        "contentHash": "n0kuhEMJDpzJKaVP/8CyzK070P1ITGhUSshi/SA8FLiNywADGCn6+NSHrtBcH07SvxIbMd4P4w4sEhSXEyE0zQ==",
         "dependencies": {
           "NETStandard.Library": "2.0.0"
         }
@@ -1382,7 +1382,7 @@
       "stryker.datacollector": {
         "type": "Project",
         "dependencies": {
-          "Microsoft.TestPlatform.ObjectModel": "16.7.1"
+          "Microsoft.TestPlatform.ObjectModel": "16.8.0"
         }
       },
       "stryker.regexmutators": {
